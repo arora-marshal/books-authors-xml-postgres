@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+	<book>
+		<author>Ivan Penev</author>
+		<name>Book 2</name>
+	</book>
+	<book>
+		<author>Blaga Dimitrova</author>
+		<name>Book 1</name>
+	</book>
+</books>

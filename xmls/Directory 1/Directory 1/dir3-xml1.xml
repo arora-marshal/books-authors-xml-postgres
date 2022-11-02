@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+	<book>
+		<author>Pavel Vejinov</author>
+		<name>Book 1</name>
+	</book>
+	<book>
+		<author>Pavel Vejinov</author>
+		<name>Book 2</name>
+	</book>
+</books>

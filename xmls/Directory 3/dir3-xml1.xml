@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+	<book>
+		<author>Isak Azimov</author>
+		<name>源氏物語</name>
+	</book>
+	<book>
+		<author>Murasaki Shikibu</author>
+		<name>吾輩は猫である</name>
+	</book>
+</books>
