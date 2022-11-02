@@ -1,3 +1,15 @@
+Problem : 
+
+There is a tree of start folder, it&#39;s subfolders, their subfolders, etc...
+In each folder, subfolder, etc… there are same structured XML files stored.
+
+1. Read XML parsed content into a data base table:
+* PHP script should read XML files information and add it to PostgreSQL two
+database tables: “authors” and “books”  
+2. XML files should contain Cyrilic, Korean and Japanese symbols.
+3. Create simple page with a search form (should search by author only from data base).
+Result should be printed right after search form.
+
 Please do database connectivity in file /Models/Book.php before working.
 
 
