@@ -11,3 +11,7 @@ Please do database connectivity in file /Models/Book.php before working.
 /public/js/custom.js - it has ajax requests which are called on index.html
 Controllers/Xml.php -  it has code to read content from xml files
 /Models/Book.php -  it has all the logic for add, update or search records from pg db
+
+![alt text](https://github.com/arora-marshal/books-authors-xml-postgres/blob/main/screenshot1.png)
+![alt text](https://github.com/arora-marshal/books-authors-xml-postgres/blob/main/screenshot2.png)
+![alt text](https://github.com/arora-marshal/books-authors-xml-postgres/blob/main/screenshot3.png)
